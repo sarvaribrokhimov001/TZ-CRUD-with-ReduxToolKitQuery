@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali Valiyev",
+      "username": "ali01",
+      "email": "ali@example.com",
+      "password": "123456",
+      "age": 22,
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Jasur Karimov",
+      "username": "jasur02",
+      "email": "jasur@example.com",
+      "password": "123456",
+      "age": 24,
+      "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Bekzod Xasanov",
+      "username": "bekzod03",
+      "email": "bekzod@example.com",
+      "password": "123456",
+      "age": 21,
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Aziza Yoqubova",
+      "username": "aziza04",
+      "email": "aziza@example.com",
+      "password": "123456",
+      "age": 20,
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Malika Ismoilova",
+      "username": "malika05",
+      "email": "malika@example.com",
+      "password": "123456",
+      "age": 23,
+      "image": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Sardor Tursunov",
+      "username": "sardor06",
+      "email": "sardor@example.com",
+      "password": "123456",
+      "age": 25,
+      "image": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Shahzoda Qodirova",
+      "username": "shahzoda07",
+      "email": "shahzoda@example.com",
+      "password": "123456",
+      "age": 19,
+      "image": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Temur Sobirov",
+      "username": "temur08",
+      "email": "temur@example.com",
+      "password": "123456",
+      "age": 27,
+      "image": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Dilnoza Ergasheva",
+      "username": "dilnoza09",
+      "email": "dilnoza@example.com",
+      "password": "123456",
+      "age": 22,
+      "image": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Oybek Rahimov",
+      "username": "oybek10",
+      "email": "oybek@example.com",
+      "password": "123456",
+      "age": 26,
+      "image": "https://randomuser.me/api/portraits/men/10.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
